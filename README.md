@@ -4,4 +4,3 @@ This is the repository for the HydraSCA-LISN tool presented during [Hardwear.io 
 
 ![HydraSCA-LISN](./device.jpg)
 
-More information will be available in the next few weeks.
